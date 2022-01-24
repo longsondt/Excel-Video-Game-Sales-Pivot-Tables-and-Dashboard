@@ -12,7 +12,7 @@ The dashboard displays visualizations of Pivot Tables data and allows users to i
 <img width="928" alt="Dashboard 2" src="https://user-images.githubusercontent.com/94946621/150688818-889bbbdb-38c4-4ca2-b1aa-3b8cba7234e2.PNG">
 
 ## How to try the dashboard
-To try out the dashboard and look at the Pivot Tables in details, simply download the vgsales.**xlsx** file. 
+To try out the dashboard and look at the Pivot Tables in details, simply download the vgsales.**xlsx** file and open it on your computer! 
 
 ## Declaration of originality 
 Aside from the dataset, which was from [Kaggle](https://www.kaggle.com/gregorut/videogamesales) I hereby declare that the work presented in this project is an outcome of my independene and original work. The project is free from any plagiarism and has not been submitted elsewhere for publication.
