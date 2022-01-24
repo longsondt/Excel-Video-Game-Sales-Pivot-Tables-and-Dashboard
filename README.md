@@ -22,4 +22,4 @@ The dashboard displays visualizations of Pivot Tables data and allows users to i
 To try out the dashboard and look at the Pivot Tables in details, simply download the vgsales.**xlsx** file and open it on your computer! 
 
 ## Statement of originality 
-Aside from the dataset, which was downloaded from [Kaggle](https://www.kaggle.com/gregorut/videogamesales) I hereby declare that the work presented in this project is an outcome of my independene and original work. The project is free from any plagiarism and has not been submitted elsewhere for publication.
+Aside from the dataset, which was downloaded from [Kaggle](https://www.kaggle.com/gregorut/videogamesales), I hereby declare that the work presented in this project is an outcome of my independene and original work. The project is free from any plagiarism and has not been submitted elsewhere for publication.
