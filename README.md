@@ -4,6 +4,12 @@ in the project is about video game sales of 16,5000 games from 1980 to 2017. Wit
 possibilites to demonstrate summarize and visualize data in a meaningful and digestible way.
 
 ## Quick look
+The goal is to extract meaningdul insights about the dataset by using Pivot Tables, and then display them all together in an interactive dashboard.
+
+*From this...*
+<img width="926" alt="Excel Table" src="https://user-images.githubusercontent.com/94946621/150766434-09302584-7c01-497a-843c-8563ea641fa0.PNG">
+
+*To this...*
 
 <img width="932" alt="Dashboard" src="https://user-images.githubusercontent.com/94946621/150688285-4c8e661b-2254-4df3-8d81-b1fde7515627.PNG">  
 
