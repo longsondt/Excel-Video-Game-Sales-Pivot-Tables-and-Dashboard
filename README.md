@@ -7,6 +7,7 @@ possibilites to demonstrate summarize and visualize data in a meaningful and dig
 The goal is to extract meaningdul insights about the dataset by using Pivot Tables, and then display them all together in an interactive dashboard.
 
 *From this...*
+
 <img width="926" alt="Excel Table" src="https://user-images.githubusercontent.com/94946621/150766434-09302584-7c01-497a-843c-8563ea641fa0.PNG">
 
 *To this...*
